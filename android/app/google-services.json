@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "685085231983",
+    "firebase_url": "https://stop-covid-ef50d.firebaseio.com",
+    "project_id": "stop-covid-ef50d",
+    "storage_bucket": "stop-covid-ef50d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685085231983:android:19052cae584f4a450ef69a",
+        "android_client_info": {
+          "package_name": "com.aaronhaddad.stopcovidtunisia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685085231983-t68mqubgecsl9pl8dqq77iek0659efkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT9C9SfR9sY_gnEn3oRn59C2SIP291CU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685085231983-t68mqubgecsl9pl8dqq77iek0659efkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
